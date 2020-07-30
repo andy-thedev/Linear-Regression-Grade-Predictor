@@ -20,7 +20,7 @@ Design description:
 
 3) The model is fit utilizing linear regression, based on the selected features repetitively (30 times for my saved model), and the one with the highest accuracy is saved
 
-(Trained model is saved with pickle, and the model can be loaded by remaining the code unchanged (remove comments on lines 42, and 59 to train **once** and save a model to repetitively fit, and save model with highest accuracy, remove comments on line 69 and 84))
+(Trained model is saved with pickle, and the model can be loaded by remaining the code unchanged (remove comments on lines 42, and 59 to train **once** and save a model.  In order to repetitively fit, and save model with highest accuracy, remove comments on line 69 and 84))
 
 4) A plot algorithm for visualization is included. We may see the relationship between the first grade and the final grade, and we may compare different correlations and visualizations by manipulating the section's parameters (variable p, vector data["G3"], and labels). This was done mainly for personal practise.
 
