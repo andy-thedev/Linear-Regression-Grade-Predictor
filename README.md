@@ -2,7 +2,7 @@
 
 A repository containing a grade predictor utilizing linear regression.
 
-Language: Python
+Language: Python  
 Libraries: pandas, numpy, sklearn, matplotlib, pickle  
 Dataset: student-mat.csv from the UCI (University of California, Irvine) machine learning repository
 
