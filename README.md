@@ -15,7 +15,7 @@ Training dataset of students' information was collected from the UCI machine lea
 ## /
 
 **Regression1.py:**  
-The main algorithm
+The main algorithm (See section: "Design description" below)
 
 **student-mat.csv:**  
 A csv table containing student information, with rows being each student, and columns being features such as: school, sex, age, address, famsize, etc.
