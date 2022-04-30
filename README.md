@@ -1,5 +1,7 @@
 # Grade Predictor
 
+## Credit: https://github.com/techwithtim
+
 A repository containing a grade predictor utilizing linear regression.
 
 Language: Python  
